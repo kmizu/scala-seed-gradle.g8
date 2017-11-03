@@ -1,4 +1,4 @@
-package example
+package $group$
 
 import org.scalatest._
 
